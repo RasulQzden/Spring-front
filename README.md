@@ -22,6 +22,10 @@ username=postgres
 Админу доступно: Добавление, удаление, редактирование товара.
 При добавлении товара картинка сразу не показывается, хоть и добавляется, не выяснил почему пока.
 
+Изображения лежат:
+upload.path = /C:/Users/PC/IdeaProjects/Spring07/src/main/resources/static/img
+нужно будет путь под себя прописать в application.properties
+
 server.port=7075
 
 Видео:  https://cloud.mail.ru/public/GBv8/LCUFxz3gj
