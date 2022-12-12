@@ -24,4 +24,6 @@ username=postgres
 
 server.port=7075
 
+Видео:  https://cloud.mail.ru/public/GBv8/LCUFxz3gj
+
 Юзайте на здоровье.
